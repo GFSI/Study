@@ -8,8 +8,8 @@ Here is a list of the topics I will be adding to this repository for the moment 
 
 - Javascript ✔️
 - Vue ✔️
-- Node.js
-- MongoDB
+- Node.js ✔️
+- MongoDB ✔️
 - MongoDB Cloud
 - PostgreSQL
 - API REST
